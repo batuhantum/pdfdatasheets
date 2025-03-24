@@ -1,6 +1,5 @@
 # PDF Datasheet Compile Project
-
-#Steps
+# Steps
 #1 - Flatten all PDF individually
 #2 - Resize all to be 8 1/2" x 11" individually
 #3 - Add filenames to lower right of each PDF
